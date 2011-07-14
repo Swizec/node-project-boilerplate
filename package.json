@@ -1,0 +1,21 @@
+{
+  "name": "project-boilerplate",
+  "description": "Just the boilerplate for my projects.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Swizec/node-project-boilerplate.git"
+  },
+  "author": "Swizec <swizec@swizec.com>",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+      "express": "2.4.2",
+      "ejs": "0.4.3",
+      "now": "0.5.3"
+  }
+}
